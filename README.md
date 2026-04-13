@@ -423,3 +423,6 @@ The container automatically runs database migrations on startup before serving r
 ---
 
 Built by **Agrow Software Team**
+
+---
+ readme update for bot activation test
